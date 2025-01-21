@@ -12,7 +12,7 @@ cd Questao1
 docker build -t questao1 .
 docker run -e LOGIN=login -e PASSWORD=senha questao1
 ```
-PS: Substituir login e senha pelo que foi disponibilizado na prova.
+PS: Substituir "login" e "senha" pelo que foi disponibilizado na prova.
 
 ### Desafio 2
 - Gerar a imagem Docker;
@@ -23,7 +23,7 @@ cd Questao2
 docker build -t questao2 .
 docker run -e LOGIN=login -e PASSWORD=senha questao2 [numero_do_pedido]
 ```
-PS: Substituir o "login", a "senha" e o "numero_do_pedido" pelos que foram disponibilizados na prova.
+PS: Substituir o "login", "senha" e o "numero_do_pedido" pelos que foram disponibilizados na prova.
 
 ### Desafio 3
 - Gerar a imagem Docker;
