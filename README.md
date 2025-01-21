@@ -35,3 +35,6 @@ docker build -t terceiro-desafio
 docker run terceiro-desafio [número_desejado]
 ```
 PS: Substituir o numero_desejado pelo número que você ter o n-ésimo valor correspondente da sequencia de Fibonacci.
+
+### Demais desafios
+- Possuem a resposta dentro de cada pasta.
