@@ -1,7 +1,7 @@
 # Desafio Cotefacil
 Prova Técnica de Python - Cotefácil
 
-## Instruções para a executar os desafios
+## Instruções para executar os desafios
 
 ### Desafio 1
 - Gerar a imagem Docker;
