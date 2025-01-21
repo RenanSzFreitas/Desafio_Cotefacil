@@ -6,7 +6,7 @@ import os
 
 def main() -> None:
     if not os.getenv("LOGIN") or not os.getenv("PASSWORD"):
-        raise ValueError("O LOGIN e PASSWORD não foram definidos!")
+        raise ValueError("O LOGIN e o PASSWORD não foram definidos!")
 
     settings = get_project_settings()
     configure_logging(settings)
